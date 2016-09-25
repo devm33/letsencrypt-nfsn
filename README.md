@@ -1,8 +1,5 @@
 #Let's Encrypt Without Sudo
 
-**WARNING: THE LET'S ENCRYPT CERTIFICATE AUTHORITY IS ONLY IN BETA! YOU MUST
-HAVE A WHITELISTED DOMAIN DURING BETA. GENERAL AVAILABILITY WILL BE SOON!**
-
 The [Let's Encrypt](https://letsencrypt.org/) initiative is a fantastic program
 that is going to offer **free** https certificates! However, the one catch is
 that you need to use their command program to get a free certificate. You have
